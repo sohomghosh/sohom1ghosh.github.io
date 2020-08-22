@@ -11,7 +11,7 @@ author_profile: true
 
 Books
 =====
-* R Chopra, A M Godbole, N Sadvilkar, M B Shah, S Ghosh,  D Gunning "[The Natural Language Processing Workshop](https%3A%2F%2Fwww.packtpub.com%2Fproduct%2Fthe-natural-language-processing-workshop-second-edition%2F9781800208421&sa=D&sntz=1&usg=AFQjCNF0ZbfoHmEWBiZrrckaT5aZPFW_rQ)",  Packt Publishing, ISBN: 9781800208421 (Aug 2020).
+* R Chopra, A M Godbole, N Sadvilkar, M B Shah, S Ghosh,  D Gunning "[The Natural Language Processing Workshop](https://www.packtpub.com/product/the-natural-language-processing-workshop/9781800208421)",  Packt Publishing, ISBN: 9781800208421 (Aug 2020).
 * S Ghosh,  D Gunning  "[Natural Language Processing Fundamentals](https://www.packtpub.com/big-data-and-business-intelligence/natural-language-processing-fundamentals)" , Packt Publishing, ISBN: 9781789954043 (Mar 2019).
 
 Journals
