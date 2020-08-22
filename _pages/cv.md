@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[View/Download my CV](https://drive.google.com/file/d/0B6CbflkRsenBQkstaVI0UkZ3MFU/view)
+[View my CV](https://drive.google.com/file/d/0B6CbflkRsenBQkstaVI0UkZ3MFU/view)
 
 Work experience
 ======
