@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](https://drive.google.com/file/d/0B6CbflkRsenBQkstaVI0UkZ3MFU/view)
+[View/Download my CV](https://drive.google.com/file/d/0B6CbflkRsenBQkstaVI0UkZ3MFU/view)
 
 Work experience
 ======
@@ -17,10 +17,10 @@ Work experience
   * [Fidelity Investments](https://www.fidelity.com/), Bengaluru, India. 
   * Harnessing the power of AI and Big Data for improving users experience during their Personal Investments
 * Jan 2017 - Jun 2019: Data Scientist
-  * [Times Internet] (https://timesinternet.in/), Noida, India.
+  * [Times Internet](https://timesinternet.in/), Noida, India.
   * Informed, Enabled and Entertained 450+ million unique monthly visitors worldwide across 39+ digital products (Gaana, Times of India, Economic Times, Cricbuzz, MX Player, Indiatimes etc.)
 * Apr 2016 - Jan 2017: Intern, Analyst
-  * [MathLogic] (http://fnmathlogic.com/), Gurgaon, India
+  * [MathLogic](http://fnmathlogic.com/), Gurgaon, India
   * Worked on Text Analytics, Statistical Modelling & related domains
 
   
