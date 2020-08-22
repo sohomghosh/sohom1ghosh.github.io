@@ -23,12 +23,12 @@ Journals
 Conferences
 ===========
 * S Gurung, S Ghosh, J Jaiswal, P Basuchowdhuri, ”Extraction and Analysis of Publication Data of Conferences”, in proceedings of 2nd IEEE International Conference on Advances in Computing and Communication Engineering (ICACCE-2015), pp 588-593, ISBN: 978-1-4799-1734-1/15, DOI 10.1109/ICACCE.2015.21 (2015).
-* S Ghosh, A Mitra, P Basuchowdhuri, S K Saha, ”Analysis of Online Product Purchase and Predicting Items for Co-purchase”  in proceedings of 3rd International Conference on Advanced Computing, Networking, and Informatics (2015) Vol-1, Smart Innovation, Systems and Technologies Vol 43, Springer Verlag (ISSN: 2190-3018).
+* S Ghosh, A Mitra, P Basuchowdhuri, S K Saha, ”Analysis of Online Product Purchase and Predicting Items for Co-purchase”  in proceedings of 3<sup>rd</sup> International Conference on Advanced Computing, Networking, and Informatics (2015) Vol-1, Smart Innovation, Systems and Technologies Vol 43, Springer Verlag (ISSN: 2190-3018).
 
 Others
 ======
-* S Ghosh, S Modak, A C Mondal, ”A Model of Opinion Mining to Compute Score from Curriculum Vitae"(abstract) in proceedings of 22nd West Bengal State Science and Technology Congress 2015 (WBSSTC-2015), pp IRES-11, North Bengal University Press (28th Feb - 1st Mar 2015).
-* S Ghosh, P Basuchowdhuri and A Basu, ”Emergence of Collaboration in 60 years of Computer Science” (poster) presented at 11th International Conference on Webometrics, Informetrics and Scientometrics (WIS) and the 16th COLLNET Meeting 2015 (26 - 28th November 2015).
+* S Ghosh, S Modak, A C Mondal, ”A Model of Opinion Mining to Compute Score from Curriculum Vitae"(abstract) in proceedings of 22<sup>nd</sup> West Bengal State Science and Technology Congress 2015 (WBSSTC-2015), pp IRES-11, North Bengal University Press (Mar 2015).
+* S Ghosh, P Basuchowdhuri and A Basu, ”Emergence of Collaboration in 60 years of Computer Science” (poster) presented at 11<sup>th</sup> International Conference on Webometrics, Informetrics and Scientometrics (WIS) and the 16th COLLNET Meeting 2015 (Nov 2015).
 
 
 <!---
