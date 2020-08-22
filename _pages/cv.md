@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Profile"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,11 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Education
-======
-* M.Tech, Software Systems (Specialization: Data Analytics), [BITS, Pilani, India](https://www.bits-pilani.ac.in/).
-* B.Tech, Computer Science & Engineering, [Heritage Institute of Technology, Kolkata, India](http://heritageit.edu/).
 
 Work experience
 ======
@@ -34,3 +29,8 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+Education
+======
+* M.Tech, Software Systems (Specialization: Data Analytics), [BITS, Pilani, India](https://www.bits-pilani.ac.in/).
+* B.Tech, Computer Science & Engineering, [Heritage Institute of Technology, Kolkata, India](http://heritageit.edu/).
