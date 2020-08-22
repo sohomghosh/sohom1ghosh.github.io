@@ -11,19 +11,19 @@ author_profile: true
 
 Books
 =====
-* R Chopra, A M Godbole, N Sadvilkar, M B Shah, S Ghosh,  D Gunning "The Natural Language Processing Workshop",  Packt Publishing, ISBN: 9781800208421 (Aug 2020).
-* S Ghosh,  D Gunning  "Natural Language Processing Fundamentals" , Packt Publishing, ISBN: 9781789954043 (Mar 2019).
+* R Chopra, A M Godbole, N Sadvilkar, M B Shah, S Ghosh,  D Gunning "[The Natural Language Processing Workshop](https%3A%2F%2Fwww.packtpub.com%2Fproduct%2Fthe-natural-language-processing-workshop-second-edition%2F9781800208421&sa=D&sntz=1&usg=AFQjCNF0ZbfoHmEWBiZrrckaT5aZPFW_rQ)",  Packt Publishing, ISBN: 9781800208421 (Aug 2020).
+* S Ghosh,  D Gunning  "[Natural Language Processing Fundamentals](https://www.packtpub.com/big-data-and-business-intelligence/natural-language-processing-fundamentals)" , Packt Publishing, ISBN: 9781789954043 (Mar 2019).
 
 Journals
 ========
 
-* S Ghosh, "Identifying click baits using various machine learning and deep learning techniques" in International Journal of Information Technology, Springer, ISSN : 2511-2104 (Print), ISSN: 2511-2112 (Online), DOI 10.1007/s41870-020-00473-1 (2020).
-* A Mitra, S Ghosh, P Basuchowdhuri, M K Shekhawat and S K Saha, "Recommendation system based on product purchase analysis" in Innovations in Systems and Software Engineering (A NASA Journal), Springer London, ISSN: 1614 - 5046 (Print), ISSN:  1614 - 5046 (Online), DOI 10.1007/s11334-016-0274-x (2016).
+* S Ghosh, "[Identifying click baits using various machine learning and deep learning techniques](https://doi.org/10.1007/s41870-020-00473-1)" in International Journal of Information Technology, Springer, ISSN : 2511-2104 (Print), ISSN: 2511-2112 (Online), DOI 10.1007/s41870-020-00473-1 (2020).
+* A Mitra, S Ghosh, P Basuchowdhuri, M K Shekhawat and S K Saha, "[Recommendation system based on product purchase analysis](https://doi.org/10.1007/s11334-016-0274-x)" in Innovations in Systems and Software Engineering (A NASA Journal), Springer London, ISSN: 1614 - 5046 (Print), ISSN:  1614 - 5046 (Online), DOI 10.1007/s11334-016-0274-x (2016).
 
 Conferences
 ===========
-* S Gurung, S Ghosh, J Jaiswal, P Basuchowdhuri, ”Extraction and Analysis of Publication Data of Conferences”, in proceedings of 2nd IEEE International Conference on Advances in Computing and Communication Engineering (ICACCE-2015), pp 588-593, ISBN: 978-1-4799-1734-1/15, DOI 10.1109/ICACCE.2015.21 (2015).
-* S Ghosh, A Mitra, P Basuchowdhuri, S K Saha, ”Analysis of Online Product Purchase and Predicting Items for Co-purchase”  in proceedings of 3<sup>rd</sup> International Conference on Advanced Computing, Networking, and Informatics (2015) Vol-1, Smart Innovation, Systems and Technologies Vol 43, Springer Verlag (ISSN: 2190-3018).
+* S Gurung, S Ghosh, J Jaiswal, P Basuchowdhuri, ”[Extraction and Analysis of Publication Data of Conferences](https://doi.org/10.1109/ICACCE.2015.21)”, in proceedings of 2<sup>nd</sup> IEEE International Conference on Advances in Computing and Communication Engineering (ICACCE-2015), pp 588-593, ISBN: 978-1-4799-1734-1/15, DOI 10.1109/ICACCE.2015.21 (2015).
+* S Ghosh, A Mitra, P Basuchowdhuri, S K Saha, ”[Analysis of Online Product Purchase and Predicting Items for Co-purchase](https://doi.org/10.1007/978-81-322-2538-6_60)”  in proceedings of 3<sup>rd</sup> International Conference on Advanced Computing, Networking, and Informatics (2015) Vol-1, Smart Innovation, Systems and Technologies Vol 43, Springer Verlag (ISSN: 2190-3018).
 
 Others
 ======
