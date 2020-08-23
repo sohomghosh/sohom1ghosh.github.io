@@ -23,10 +23,10 @@ I am a fitness buff and I believe that "Health is Wealth".
 
 > **_UPDATES:_** 
   * Aug 2020: Attending [KDD 2020](https://www.kdd.org/kdd2020/)
-  * Aug 2020: Completed certification on "Natural Language Processing with Classification and Vector Spaces" from Coursera
-  * Aug 2020: Book titled, [The Natural Language Processing Workshop](https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition) got published by Packt Publishing
+  * Aug 2020: Completed certification on [Natural Language Processing with Classification and Vector Spaces](https://coursera.org/share/832fb751524733c2c720193501866465) from Coursera
+  * Aug 2020: Book titled, [The Natural Language Processing Workshop](https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition) has been published by Packt Publishing
   * Jul 2020: Received "Excellence In Action (Team) Award" from Fidelity Investments for developing an internal resuable NLP library using Python
-  * May 2020: Played Harmonica at the launch event of PI Fun Friday (Fidelity Investments)
-  * May 2020: Received "You've Earned It Team (India) Award" from Fidelity Investments for building a predictive model to identify target customers under stringent timelines
-  * May 2020: Paper titled, [Identifying click baits using various machine learning and deep learning techniques]((https://doi.org/10.1007/s41870-020-00473-1) has been published in International Journal of Information Technology, Springer
-  * Jan 2020: Played Harmonica at BA&R team's (Fidelity Investments) offsite
+  * May 2020: Played [Harmonica](https://youtu.be/ajFlw7rnfkI) at the launch event of PI Fun Friday (Fidelity Investments)
+  * May 2020: Received "You've Earned It Team (India) Award" from Fidelity Investments for building a predictive model to identify target customers
+  * May 2020: Paper titled, [Identifying click baits using various machine learning and deep learning techniques](https://doi.org/10.1007/s41870-020-00473-1) has been published in International Journal of Information Technology, Springer
+  * Jan 2020: Collaborated with team Symphony and played [Harmonica](https://www.youtube.com/watch?v=6pQG9bb1QaM) at the BA&R (Fidelity Investments) team's offsite
