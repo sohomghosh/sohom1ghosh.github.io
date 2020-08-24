@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Sohom Ghosh"
   avatar           : "profile.jpeg"
-  bio              : "Data Scientist"
+  bio              : "Senior Analyst - Data Science at Fidelity Investments"
   location         : "Bengaluru, India"
-  employer         : "Fidelity Investments"
+  employer         :  #"Fidelity Investments"
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en"
   email            : "sohom1ghosh@gmail.com"
