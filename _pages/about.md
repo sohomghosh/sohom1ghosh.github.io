@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### Hi there 👋, Sohom here!
+### Hi there 👋, Sohom (সোহম) here!
 I am a passionate Data Detective with hands-on experience in solving business problems. 
 I have been working on Data Sciences across different industries like Financial Services, Internet and so on. Presently, I am working as a Senior Analyst - Data Science at the Artificial Intelligence Centre of Excellence of [Fidelity Investments](https://www.fidelity.com/), Bengaluru, India. 
 
