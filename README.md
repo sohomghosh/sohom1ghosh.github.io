@@ -1,9 +1,10 @@
 ### Pages to edit
-https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_config.yml (This is the for the site layout and source code location details) <br />
+https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_config.yml (This is the for the side bar, site layout and source code location details) <br />
 https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_data/navigation.yml (This is for the navigation panel) <br />
 https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_pages/about.md (This is for the main page i.e. About me page) <br />
 https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_pages/cv.md (This is for the CV page) <br />
 https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_pages/publications.md (This is for the Publication page) <br />
+To add new pages: create it as a mardown (.md) file in the folder _pages and keep the relevant pdf files (if present) in files folder
 
 
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
