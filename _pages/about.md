@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> **Om Aing Mahasaraswatyai Namah<br> "I meditate on Lordess Saraswati, the Goddess of intellect, knowledge, education, speech, music and creativity. I devote everything to thee"**
+> **Om Aing Mahasaraswatyai Namah॥ <br> "I meditate on Lordess Saraswati, the Goddess of intellect, knowledge, education, speech, music and creativity. I devote everything to thee."**
 
 ### Hi there 👋, Sohom (সোহম) here!
 I am a passionate Data Detective with hands-on experience in solving business problems. 
