@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> **_Om Aing Mahasaraswatyai Namah॥ <br> "I meditate on Lordess Saraswati, the Goddess of intellect, knowledge, education, speech, music and creativity. I devote everything to thee."_**
+> **_Om Aing Mahasaraswatyai Namah॥ <br> "I meditate on 🙏 Lordess Saraswati 🙏, the Goddess of intellect, knowledge, education, speech, music and creativity. I devote everything to thee."_**
 
 ### Hi there 👋, Sohom (সোহম) here!
 I am a passionate Data Detective with hands-on experience in solving business problems. 
@@ -18,9 +18,9 @@ I am a Computer Science Engineer and I hold a Master's Degree in Software System
 
 In one sentence, "I am a Data Scientist by profession, an Engineer by qualification and an Artist from within". 😄
 
-I love [reading and playing harmonica](https://www.youtube.com/channel/UCDFFMnTn71JcYqXO3IpRUsw).
-Being a fitness buff, I believe that "Health is Wealth".
+I love [reading and playing harmonica](https://www.youtube.com/channel/UCDFFMnTn71JcYqXO3IpRUsw). Being a fitness buff, I believe that "Health is Wealth".
 
+[🙏 Swami Vivekananda 🙏](https://en.wikipedia.org/wiki/Swami_Vivekananda) and [🙏 Kobiguru Rabindranath Tagore 🙏](https://en.wikipedia.org/wiki/Rabindranath_Tagore) are my idols.
 
 > **_UPDATES:_** 
   * Aug 2020: Attending [KDD 2020](https://www.kdd.org/kdd2020/)
