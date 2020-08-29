@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> **_ॐ ऐं महासरस्वत्यै नमः॥ <br> "I meditate on 🙏 Lordess Saraswati 🙏, the Goddess of intellect, knowledge, education, speech, music and creativity. I devote everything to thee."_**
+> **_ॐ श्रीं ह्रीं सरस्वत्यै नमः॥ <br> "I meditate on 🙏 Lordess Saraswati 🙏, the Goddess of intellect, knowledge, education, speech, music and creativity. I devote everything to thee."_**
 
 ### Hi there 👋, Sohom (সোহম) here!
 I am a passionate Data Detective with hands-on experience in solving business problems. 
