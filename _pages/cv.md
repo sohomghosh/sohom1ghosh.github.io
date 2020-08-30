@@ -13,13 +13,13 @@ redirect_from:
 
 Work experience
 ======
-* Jun 2019 - Present: Senior Analyst (Data Science)
+* Jun 2019 - Present:**Senior Analyst (Data Science)**
   * [Fidelity Investments](https://www.fidelity.com/), Bengaluru, India. 
   * Harnessing the power of AI and Big Data for improving users experience during their Personal Investments
-* Jan 2017 - Jun 2019: Data Scientist
+* Jan 2017 - Jun 2019:**Data Scientist**
   * [Times Internet](https://timesinternet.in/), Noida, India.
   * Informed, Enabled and Entertained 450+ million unique monthly visitors worldwide across 39+ digital products (Gaana, Times of India, Economic Times, Cricbuzz, MX Player, Indiatimes etc.)
-* Apr 2016 - Jan 2017: Intern, Analyst
+* Apr 2016 - Jan 2017: **Intern, Analyst**
   * [MathLogic](http://fnmathlogic.com/), Gurgaon, India
   * Worked on Text Analytics, Statistical Modelling & related domains
 
@@ -37,8 +37,6 @@ Tools
 * Python
 * Cloud (AWS)
 * SQL
-* Excel
-* Hadoop
 
 Certifications
 ======
