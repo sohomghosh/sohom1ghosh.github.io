@@ -11,6 +11,11 @@ redirect_from:
 
 [View my CV](https://drive.google.com/file/d/0B6CbflkRsenBQkstaVI0UkZ3MFU/view)
 
+Education
+======
+M.Tech, Software Systems (Specialization: Data Analytics), [BITS, Pilani, India](https://www.bits-pilani.ac.in/).
+B.Tech, Computer Science & Engineering, [Heritage Institute of Technology, Kolkata, India](https://www.heritageit.edu/).
+
 Work experience
 ======
 * Jun 2019 - Present:**Senior Analyst (Data Science)**
