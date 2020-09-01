@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-M.Tech, Software Systems (Specialization: Data Analytics), [BITS, Pilani, India](https://www.bits-pilani.ac.in/).
-B.Tech, Computer Science & Engineering, [Heritage Institute of Technology, Kolkata, India](https://www.heritageit.edu/).
+* **M.Tech, Software Systems (Specialization: Data Analytics)**, [BITS, Pilani, India](https://www.bits-pilani.ac.in/).
+* **B.Tech, Computer Science & Engineering**, [Heritage Institute of Technology, Kolkata, India](https://www.heritageit.edu/).
 
 Work experience
 ======
