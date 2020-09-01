@@ -23,7 +23,7 @@ I love [reading and playing harmonica](https://www.youtube.com/channel/UCDFFMnTn
 [🙏 Swami Vivekananda 🙏](https://en.wikipedia.org/wiki/Swami_Vivekananda) and [🙏 Kobiguru Rabindranath Tagore 🙏](https://en.wikipedia.org/wiki/Rabindranath_Tagore) are my idols.
 
 > **_UPDATES:_** 
-  * Aug 2020: Attending [KDD 2020](https://www.kdd.org/kdd2020/)
+  * Aug 2020: Attended [KDD 2020](https://www.kdd.org/kdd2020/)
   * Aug 2020: Completed certification on [Natural Language Processing with Classification and Vector Spaces](https://coursera.org/share/832fb751524733c2c720193501866465) from Coursera
   * Aug 2020: Book titled, [The Natural Language Processing Workshop](https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition) has been published by Packt Publishing
   * Jul 2020: Received "Excellence In Action (Team) Award" from Fidelity Investments for developing an internal resuable NLP library using Python
