@@ -17,7 +17,7 @@ I am a Computer Science Engineer and I hold a Master's Degree in Software System
 
 In one sentence, "I am a Data Scientist by profession, an Athlete by choice and an Artist from within". 😄
 
-[🙏 Swami Vivekananda 🙏](https://en.wikipedia.org/wiki/Swami_Vivekananda) and [🙏 Kobiguru Rabindranath Tagore 🙏](https://en.wikipedia.org/wiki/Rabindranath_Tagore) are my idols.
+[🙏 Swami Vivekananda 🙏](https://en.wikipedia.org/wiki/Swami_Vivekananda) and [🙏 Kaviguru Rabindranath Tagore 🙏](https://en.wikipedia.org/wiki/Rabindranath_Tagore) are my idols.
 
 > **_UPDATES:_** 
   * Sep 2020: Completed certification on [Natural Language Processing with Probabilistic Models](https://www.coursera.org/account/accomplishments/certificate/D5VQ5Q8QH2CS) from Coursera
