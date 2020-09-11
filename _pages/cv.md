@@ -47,7 +47,7 @@ Certifications
 ======
 * [Natural Language Processing with Probabilistic Models, (Coursera)](https://www.coursera.org/account/accomplishments/certificate/D5VQ5Q8QH2CS)
 * [Natural Language Processing with Classification and Vector Spaces, (Coursera)](https://coursera.org/share/832fb751524733c2c720193501866465)
-* [Certificate for Machine Learning for Data Science and Analytics (edX)](https://courses.edx.org/certificates/21624bef8e1649b7a471faabca2a17ee)
+* [Machine Learning for Data Science and Analytics (edX)](https://courses.edx.org/certificates/21624bef8e1649b7a471faabca2a17ee)
 * Data Mining (IIT Kharagpur)
 * Big Data Analytics (IIT Kharagpur)
 * [Social and Economic Networks: Models and Analysis (Coursera)](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/971615~6114289/pdf)
