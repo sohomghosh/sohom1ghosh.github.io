@@ -20,6 +20,8 @@ In one sentence, "I am a Data Scientist by profession, an Athlete by choice and 
 [🙏 Swami Vivekananda 🙏](https://en.wikipedia.org/wiki/Swami_Vivekananda) and [🙏 Kaviguru Rabindranath Tagore 🙏](https://en.wikipedia.org/wiki/Rabindranath_Tagore) are my idols.
 
 > **_UPDATES:_** 
+  * Sep 2020: Completed certification on [Natural Language Processing with Sequence Models](
+https://www.coursera.org/account/accomplishments/certificate/WJ4JANLL23FY) from Coursera
   * Sep 2020: Completed certification on [Natural Language Processing with Probabilistic Models](https://www.coursera.org/account/accomplishments/certificate/D5VQ5Q8QH2CS) from Coursera
   * Aug 2020: Attended [KDD 2020](https://www.kdd.org/kdd2020/)
   * Aug 2020: Completed certification on [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/certificate/MEGC5CUXA5JX) from Coursera
