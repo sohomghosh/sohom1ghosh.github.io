@@ -45,6 +45,7 @@ Tools
 
 Certifications
 ======
+* [Natural Language Processing with Sequence Models, (Coursera)](https://www.coursera.org/account/accomplishments/certificate/WJ4JANLL23FY)
 * [Natural Language Processing with Probabilistic Models, (Coursera)](https://www.coursera.org/account/accomplishments/certificate/D5VQ5Q8QH2CS)
 * [Natural Language Processing with Classification and Vector Spaces, (Coursera)](https://coursera.org/share/832fb751524733c2c720193501866465)
 * [Machine Learning for Data Science and Analytics (edX)](https://courses.edx.org/certificates/21624bef8e1649b7a471faabca2a17ee)
