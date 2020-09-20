@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-<iframe src="/files/Sohom_Resume.pdf" width="75%" height="400" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-[Download a PDF copy of my CV](/files/Sohom_Resume.pdf)
+<iframe src="/files/Sohom_Resume.pdf" width="85%" height="200" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+[Download a PDF copy of my Resume](/files/Sohom_Resume.pdf)
 
 Education
 ======
