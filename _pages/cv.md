@@ -6,11 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
-<iframe src="/files/Sohom_Resume.pdf" width="50%" height="300" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-[Download a PDF copy of my Resume](/files/Sohom_Resume.pdf)
-
+<iframe src="/files/Sohom_Resume.pdf" width="50%" height="400" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 Education
 ======
 * **M.Tech, Software Systems (Specialization: Data Analytics)**, [BITS, Pilani, India](https://www.bits-pilani.ac.in/).
