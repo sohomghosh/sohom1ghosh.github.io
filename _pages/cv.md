@@ -2,6 +2,7 @@
 layout: archive
 title: "Resume"
 permalink: /cv/
+toc: true
 author_profile: true
 redirect_from:
   - /resume
