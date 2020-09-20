@@ -9,7 +9,7 @@ redirect_from:
 > **_🙏ॐ श्रीं ह्रीं सरस्वत्यै नमः॥ I meditate on Lordess Saraswati, the goddess of education, music and speech.🙏_**
 
 I am a **Senior Analyst - Data Science** at the Artificial Intelligence Centre of Excellence of [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}.<br>
-My research interests include **Applied Machine Learning, Deep Learning and Natural Language Processing (NLP)**. Over the last few years, I have been working on improving user experience using **Artificial Intelligence** across different industries like Financial Services, Internet and so on.
+My research interests include **Applied Machine Learning & Deep Learning based Natural Language Processing**. Over the last few years, I have been working on improving user experience using **Artificial Intelligence** across different industries like Financial Services, Internet and so on.
 
 I hold a **Master's Degree** in Software Systems (with specialization in Data Analytics) from [BITS Pilani, India](http://www.bits-pilani.ac.in/){:target="_blank"} and a **Bachelor's Degree** in Computer Science and Engineering from [Heritage Institute of Technology, Kolkata, India](https://www.heritageit.edu/){:target="_blank"}. <br>
 Outside work, I love reading and [playing harmonica](https://www.youtube.com/channel/UCDFFMnTn71JcYqXO3IpRUsw){:target="_blank"}. Being a fitness buff, I believe that "Health is Wealth".
