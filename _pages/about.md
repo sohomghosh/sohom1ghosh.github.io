@@ -19,8 +19,7 @@ I hold a **Master's Degree** in Software Systems (with specialization in Data An
 <details>
 <summary>UPDATES</summary>
   <ul>
-  <li> Sep 2020: Completed certification on [Natural Language Processing with Sequence Models](
-https://www.coursera.org/account/accomplishments/certificate/WJ4JANLL23FY) from Coursera</li>
+  <li> Sep 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/WJ4JANLL23FY">Natural Language Processing with Sequence Models </a> from Coursera</li>
   <li> Sep 2020: Completed certification on [Natural Language Processing with Probabilistic Models](https://www.coursera.org/account/accomplishments/certificate/D5VQ5Q8QH2CS) from Coursera</li>
   <li> Aug 2020: Attended [KDD 2020](https://www.kdd.org/kdd2020/)</li>
   <li> Aug 2020: Completed certification on [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/certificate/MEGC5CUXA5JX) from Coursera</li>
