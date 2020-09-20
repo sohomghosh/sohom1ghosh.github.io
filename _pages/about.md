@@ -8,13 +8,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> **_ॐ श्रीं ह्रीं सरस्वत्यै नमः॥ I meditate on Lordess Saraswati._**
+> **_🙏ॐ श्रीं ह्रीं सरस्वत्यै नमः॥ I meditate on Lordess Saraswati, the goddess of education, music and speech.🙏_**
 
-I am a passionate Data Detective with hands-on experience in solving business problems. I have been working on Data Sciences across different industries like Financial Services, Internet and so on. In addition to being the co-author of the books [Natural Language Processing Fundamentals](https://www.packtpub.com/in/big-data-and-business-intelligence/natural-language-processing-fundamentals) and [The Natural Language Processing Workshop](https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition), I have several [publications](https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en) in proceedings of international conferences and refereed journals. My research interests include Deep Learning based Natural Language Processing.
+I am a passionate Data Detective with hands-on experience in solving business problems. I have been working on Data Sciences across different industries like Financial Services, Internet and so on. In addition to being the co-author of the books [NLP Fundamentals](https://www.packtpub.com/in/big-data-and-business-intelligence/natural-language-processing-fundamentals) and [The NLP Workshop](https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition), I have several [publications](https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en) in proceedings of international conferences and refereed journals. My research interests include Deep Learning based Natural Language Processing.
 
 I am a Computer Science Engineer and I hold a Master's Degree in Software Systems (with specialization in Data Analytics) from [BITS Pilani, India](http://www.bits-pilani.ac.in/). Presently, I am working as a Senior Analyst - Data Science at the Artificial Intelligence Centre of Excellence of [Fidelity Investments](https://www.fidelity.com/), Bengaluru, India. Outside work, I love reading and [playing harmonica](https://www.youtube.com/channel/UCDFFMnTn71JcYqXO3IpRUsw). Being a fitness buff, I believe that "Health is Wealth".
 
- In one sentence, "I am a Data Scientist by profession, an Athlete by choice and an Artist from within". 😇
+ In one sentence, "I am a Data Scientist by profession, an Athlete by choice and an Artist from within". 😊
 
 > **_UPDATES:_** 
   * Sep 2020: Completed certification on [Natural Language Processing with Sequence Models](
