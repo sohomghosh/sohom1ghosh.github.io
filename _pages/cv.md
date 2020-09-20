@@ -13,8 +13,7 @@ redirect_from:
 * **M.Tech, Software Systems (Specialization: Data Analytics)**, [BITS, Pilani, India](https://www.bits-pilani.ac.in/).
 * **B.Tech, Computer Science & Engineering**, [Heritage Institute of Technology, Kolkata, India](https://www.heritageit.edu/).
 
-Work experience
-======
+# Work experience
 * Jun 2019 - Present:**Senior Analyst (Data Science)**
   * [Fidelity Investments](https://www.fidelity.com/), Bengaluru, India. 
   * Harnessing the power of AI and Big Data for improving users experience during their Personal Investments
@@ -26,22 +25,19 @@ Work experience
   * Worked on Text Analytics, Statistical Modelling & related domains
 
   
-Skills
-======
+# Skills
 * Machine Learning
 * Deep Learning
 * Natural Language Processing
 * Big Data Engineering
 * Business Analytics
 
-Tools
-======
+# Tools
 * Python
 * Cloud (AWS)
 * SQL
 
-Certifications
-======
+# Certifications
 * [Natural Language Processing with Sequence Models, (Coursera)](https://www.coursera.org/account/accomplishments/certificate/WJ4JANLL23FY)
 * [Natural Language Processing with Probabilistic Models, (Coursera)](https://www.coursera.org/account/accomplishments/certificate/D5VQ5Q8QH2CS)
 * [Natural Language Processing with Classification and Vector Spaces, (Coursera)](https://coursera.org/share/832fb751524733c2c720193501866465)
