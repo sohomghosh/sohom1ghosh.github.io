@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Sohom Ghosh"
 title_separator          : "-"
-name                     : &name "Sohom Ghosh"
+name                     : &name "Sohom Ghosh (সোহম ঘোষ)"
 description              : &description "Data Scientist by profession, Engineer by qualification, Artist from within."
 url                      : https://sohomghosh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
