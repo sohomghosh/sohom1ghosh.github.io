@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Resume"
 permalink: /cv/
 toc: true
