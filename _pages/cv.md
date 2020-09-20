@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-<iframe src="https://drive.google.com/file/d/0B6CbflkRsenBQkstaVI0UkZ3MFU/view" width="100%" height="100" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-[Download my CV](https://drive.google.com/file/d/0B6CbflkRsenBQkstaVI0UkZ3MFU/view)
+<iframe src="/files/Sohom_Resume.pdf" width="75%" height="400" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+[Download a PDF copy of my CV](/files/Sohom_Resume.pdf)
 
 Education
 ======
