@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Sohom Ghosh"
 title_separator          : "-"
-name                     : &name "Sohom Ghosh (সোহম ঘোষ)"
-description              : &description "Data Scientist by profession, Engineer by qualification, Artist from within."
+name                     : &name "Sohom Ghosh"
+description              : &description "Data Scientist"
 url                      : https://sohomghosh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sohomghosh.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sohom Ghosh"
+  name             : "Sohom Ghosh (সোহম ঘোষ)"
   avatar           : "profile.jpeg"
   bio              : "Senior Analyst - Data Science at Fidelity Investments"
   location         : "Bengaluru, India"
