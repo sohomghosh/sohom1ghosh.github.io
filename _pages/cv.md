@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-<iframe src="/files/Sohom_Resume.pdf" width="100%" height="400" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/Sohom_Resume.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 # Education
 * **M.Tech, Software Systems (Specialization: Data Analytics)**, [BITS, Pilani, India](https://www.bits-pilani.ac.in/).
