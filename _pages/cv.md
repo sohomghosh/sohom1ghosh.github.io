@@ -9,8 +9,7 @@ redirect_from:
 {% include base_path %}
 <iframe src="/files/Sohom_Resume.pdf" width="50%" height="400" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-Education
-======
+# Education
 * **M.Tech, Software Systems (Specialization: Data Analytics)**, [BITS, Pilani, India](https://www.bits-pilani.ac.in/).
 * **B.Tech, Computer Science & Engineering**, [Heritage Institute of Technology, Kolkata, India](https://www.heritageit.edu/).
 
