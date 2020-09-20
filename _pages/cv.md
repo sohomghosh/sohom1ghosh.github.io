@@ -2,6 +2,7 @@
 title: "Resume"
 permalink: /cv/
 toc: true
+toc_sticky: true
 excerpt_separator: <!--more-->
 author_profile: true
 redirect_from:
