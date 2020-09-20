@@ -1,9 +1,7 @@
 ---
 title: "Resume"
 permalink: /cv/
-toc: true
-toc_sticky: true
-excerpt_separator: <!--more-->
+layout: archive
 author_profile: true
 redirect_from:
   - /resume
