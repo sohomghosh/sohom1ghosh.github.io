@@ -197,6 +197,7 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
       comments: true
@@ -208,14 +209,15 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
-      classes: wide #newly added
+      classes: wide
+      author_profile: true     
   # _teaching
   - scope:
       path: ""
       type: teaching
     values:
       layout: single
+      classes: wide
       author_profile: true
       share: true
       comments: true
@@ -225,6 +227,7 @@ defaults:
       type: publications
     values:
       layout: single
+      classes: wide
       author_profile: true
       share: true
       comments: true
@@ -234,6 +237,7 @@ defaults:
       type: portfolio
     values:
       layout: single
+      classes: wide
       author_profile: true
       share: true
       comment: true
@@ -243,6 +247,7 @@ defaults:
       type: talks
     values:
       layout: talk
+      classes: wide
       author_profile: true
       share: true
 
