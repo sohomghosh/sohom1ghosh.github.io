@@ -25,7 +25,7 @@ Outside work, I like to [play harmonica](https://www.youtube.com/channel/UCDFFMn
     <li> Aug 2020: Attended <a href="https://www.kdd.org/kdd2020/" target="_blank">KDD 2020</a></li>
     <li> Aug 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/MEGC5CUXA5JX" target="_blank"> Natural Language Processing with Classification and Vector Spaces</a> (Coursera)</li>
     <li> Aug 2020: Book titled, <a href="https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition" target="_blank">The Natural Language Processing Workshop </a> got published by Packt Publishing</li>
-    <li> Jul 2020: Received "Excellence In Action (Team) Award" from Fidelity Investments for developing an internal resuable NLP library</li>
+    <li> Jul 2020: Received "Excellence In Action (Team) Award" from Fidelity Investments</li>
     <li> Jun 2020: Participated in Fidelity HealthifyMe Challenge 2020. Maintained streak for 42 days. Ranked 56 (All India). 
     <li> May 2020: Authored and released a set of poems in Bengali on <a href="https://www.youtube.com/playlist?list=PLWVXvBh2xmj_CVGr_XFmvcX69LzdsxVNe" target="_blank">YouTube</a>
     <li> May 2020: Played <a href="https://youtu.be/ajFlw7rnfkI"  target="_blank">Harmonica </a> at the launch event of PI Fun Friday (Fidelity Investments)</li>
