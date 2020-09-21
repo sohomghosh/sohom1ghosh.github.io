@@ -30,7 +30,7 @@ Outside work, I like to [play harmonica](https://www.youtube.com/channel/UCDFFMn
     <li> May 2020: Authored and released a set of poems in Bengali on <a href="https://www.youtube.com/playlist?list=PLWVXvBh2xmj_CVGr_XFmvcX69LzdsxVNe" target="_blank">YouTube</a>
     <li> May 2020: Played <a href="https://youtu.be/ajFlw7rnfkI"  target="_blank">Harmonica </a> at the launch event of PI Fun Friday (Fidelity Investments)</li>
     <li> May 2020: Received "You've Earned It Team (India) Award" from Fidelity Investments</li>
-    <li> May 2020: Paper titled, <a href="https://doi.org/10.1007/s41870-020-00473-1" target="_blank">Identifying click baits using various machine learning and deep learning techniques </a> got published in International Journal of Information Technology, Springer</li>
+    <li> May 2020: Paper titled, <a href="https://doi.org/10.1007/s41870-020-00473-1" target="_blank">Identifying click baits using various machine learning and deep learning techniques</a> got published in International Journal of Information Technology, Springer</li>
     <li> Feb 2020: Visited Hampi (UNESCO World Heritage Site) along with my family
     <li> Jan 2020: Collaborated with team Symphony and played <a href="https://www.youtube.com/watch?v=6pQG9bb1QaM" target="_blank"> Harmonica </a> at the BA&R (Fidelity Investments) team's offsite</li>
   
