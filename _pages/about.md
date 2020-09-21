@@ -20,15 +20,16 @@ Outside work, I like to [play harmonica](https://www.youtube.com/channel/UCDFFMn
 <details>
 <summary>UPDATES</summary>
   <ul>
-  <li> Sep 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/WJ4JANLL23FY" target="_blank">Natural Language Processing with Sequence Models </a> from Coursera</li>
-  <li> Sep 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/D5VQ5Q8QH2CS" target="_blank">Natural Language Processing with Probabilistic Models </a> from Coursera</li>
+  <li> Sep 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/WJ4JANLL23FY" target="_blank">Natural Language Processing with Sequence Models </a> (Coursera)</li>
+  <li> Sep 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/D5VQ5Q8QH2CS" target="_blank">Natural Language Processing with Probabilistic Models </a> (Coursera)</li>
   <li> Aug 2020: Attended <a href="https://www.kdd.org/kdd2020/" target="_blank">KDD 2020</a></li>
-  <li> Aug 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/MEGC5CUXA5JX" target="_blank"> Natural Language Processing with Classification and Vector Spaces</a> from Coursera</li>
-  <li> Aug 2020: Book titled, <a href="https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition" target="_blank">The Natural Language Processing Workshop </a> has been published by Packt Publishing</li>
-  <li> Jul 2020: Received "Excellence In Action (Team) Award" from Fidelity Investments for developing an internal resuable NLP library using Python</li>
+  <li> Aug 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/MEGC5CUXA5JX" target="_blank"> Natural Language Processing with Classification and Vector Spaces</a> (Coursera)</li>
+  <li> Aug 2020: Book titled, <a href="https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition" target="_blank">The Natural Language Processing Workshop </a> got published by Packt Publishing</li>
+  <li> Jul 2020: Received "Excellence In Action (Team) Award" from Fidelity Investments for developing an internal resuable NLP library</li>
   <li> May 2020: Played <a href="https://youtu.be/ajFlw7rnfkI"  target="_blank">Harmonica </a> at the launch event of PI Fun Friday (Fidelity Investments)</li>
-  <li> May 2020: Received "You've Earned It Team (India) Award" from Fidelity Investments for building a predictive model to identify target customers</li>
-  <li> May 2020: Paper titled, <a href="https://doi.org/10.1007/s41870-020-00473-1" target="_blank">Identifying click baits using various machine learning and deep learning techniques </a> has been published in International Journal of Information Technology, Springer</li>
+  <li> May 2020: Received "You've Earned It Team (India) Award" from Fidelity Investments</li>
+  <li> May 2020: Paper titled, <a href="https://doi.org/10.1007/s41870-020-00473-1" target="_blank">Identifying click baits using various machine learning and deep learning techniques </a> got published in International Journal of Information Technology, Springer</li>
+  <li> Feb 2020: Visited Hampi (UNESCO World Heritage Site) along with my family
   <li> Jan 2020: Collaborated with team Symphony and played <a href="https://www.youtube.com/watch?v=6pQG9bb1QaM" target="_blank"> Harmonica </a> at the BA&R (Fidelity Investments) team's offsite</li>
   </ul>
 </details>
