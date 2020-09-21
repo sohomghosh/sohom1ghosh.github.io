@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-[View my articles on Google Scholar](https://scholar.google.com/citations?hl=en&user=7Jm4_McAAAAJ){:target="_blank"}
+[View my articles in Google Scholar](https://scholar.google.com/citations?hl=en&user=7Jm4_McAAAAJ){:target="_blank"}
 
 Books
 =====
