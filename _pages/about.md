@@ -18,7 +18,7 @@ Outside work, I like to [play harmonica](https://www.youtube.com/channel/UCDFFMn
  In one sentence, **"I am a Data Scientist by profession, an Athlete by choice and an Artist from within".** 😊
 
 <details>
-  <summary>UPDATES</summary>
+  <summary>Newsworthy</summary>
   <ul>
     <li> Sep 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/WJ4JANLL23FY" target="_blank">Natural Language Processing with Sequence Models </a> (Coursera)</li>
     <li> Sep 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/D5VQ5Q8QH2CS" target="_blank">Natural Language Processing with Probabilistic Models </a> (Coursera)</li>
