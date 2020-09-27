@@ -39,6 +39,8 @@ redirect_from:
 * SQL
 
 # Certifications
+* [Natural Language Processing Specialization, deeplearning.ai (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/LA8H4KG9HWJP){:target="_blank"}
+* [Natural Language Processing with Attention Models, (Coursera)](https://www.coursera.org/account/accomplishments/certificate/4R95DUBLTFUD){:target="_blank"}
 * [Natural Language Processing with Sequence Models, (Coursera)](https://www.coursera.org/account/accomplishments/certificate/WJ4JANLL23FY){:target="_blank"}
 * [Natural Language Processing with Probabilistic Models, (Coursera)](https://www.coursera.org/account/accomplishments/certificate/D5VQ5Q8QH2CS){:target="_blank"}
 * [Natural Language Processing with Classification and Vector Spaces, (Coursera)](https://coursera.org/share/832fb751524733c2c720193501866465){:target="_blank"}
