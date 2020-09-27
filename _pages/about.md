@@ -20,10 +20,10 @@ Outside work, I like to [play harmonica](https://www.youtube.com/channel/UCDFFMn
 <details>
   <summary>Newsworthy</summary>
   <ul>
-    <li> Sep 2020: Completed <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/LA8H4KG9HWJP" target="_blank">Natural Language Processing Specialization </a> offered by deeplearning.ai (Coursera)</li>
-    <li> Sep 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/4R95DUBLTFUD" target="_blank"> Natural Language Processing with Attention Models </a> (Coursera)</li>
-    <li> Sep 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/WJ4JANLL23FY" target="_blank">Natural Language Processing with Sequence Models </a> (Coursera)</li>
-    <li> Sep 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/D5VQ5Q8QH2CS" target="_blank">Natural Language Processing with Probabilistic Models </a> (Coursera)</li>
+    <li> Sep 2020: Completed <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/LA8H4KG9HWJP" target="_blank">Natural Language Processing Specialization</a> offered by deeplearning.ai (Coursera)</li>
+    <li> Sep 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/4R95DUBLTFUD" target="_blank"> Natural Language Processing with Attention Models</a> (Coursera)</li>
+    <li> Sep 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/WJ4JANLL23FY" target="_blank">Natural Language Processing with Sequence Models</a> (Coursera)</li>
+    <li> Sep 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/D5VQ5Q8QH2CS" target="_blank">Natural Language Processing with Probabilistic Models</a> (Coursera)</li>
     <li> Aug 2020: Attended <a href="https://www.kdd.org/kdd2020/" target="_blank">KDD 2020</a></li>
     <li> Aug 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/MEGC5CUXA5JX" target="_blank"> Natural Language Processing with Classification and Vector Spaces</a> (Coursera)</li>
     <li> Aug 2020: Book titled, <a href="https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition" target="_blank">The Natural Language Processing Workshop</a> got published by Packt Publishing</li>
