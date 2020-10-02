@@ -10,7 +10,8 @@ redirect_from:
 
 I am a **Senior Analyst - Data Science** at the Artificial Intelligence Centre of Excellence of [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}.<br>
 My research interests include **Applied Machine Learning and Deep Learning based Natural Language Processing**.<br>
-Over the last few years, I have been working on improving user experience using **Artificial Intelligence** across different industries like Financial Services, Internet and so on.
+Over the last few years, I have been working on improving user experience using **Artificial Intelligence** across different industries like Financial Services, Internet and so on. In addition to being co-author of the books [NLP Fundamentals](https://www.packtpub.com/in/big-data-and-business-intelligence/natural-language-processing-fundamentals){:target="_blank"} and [The NLP Workshop](https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition){:target="_blank"}, I have several [publications](https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en){:target="_blank"} in proceedings of international conferences and refereed journals.
+
 
 I hold a **Master's Degree** in Software Systems (with specialization in Data Analytics) from [BITS Pilani, India](http://www.bits-pilani.ac.in/){:target="_blank"} and a **Bachelor's Degree** in Computer Science and Engineering from [Heritage Institute of Technology, Kolkata, India](https://www.heritageit.edu/){:target="_blank"}. <br>
 Outside work, I like to [play harmonica](https://www.youtube.com/channel/UCDFFMnTn71JcYqXO3IpRUsw){:target="_blank"}. Being an adventure lover and a fitness buff, I believe that "Health is Wealth".
