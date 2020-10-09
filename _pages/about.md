@@ -20,7 +20,7 @@ Outside work, I like to [play harmonica](https://www.youtube.com/channel/UCDFFMn
 In one sentence, **"I am a Data Scientist by profession, an Athlete by choice and an Artist from within".** 😊
 
 <details>
-  <summary>Newsworthy</summary>
+  <summary>Selected Updates 👇</summary>
   <ul>
     <li> Oct 2019: Our research work on retrieving the most related question for a given search query has been accepted as a full paper in <a href="http://mlnlp.net/"  target="_blank">MLNLP'20, China</a> (Workshop of ACM Conference ACAI'20)</li>
     <li> Sep 2020: Completed <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/LA8H4KG9HWJP" target="_blank">Natural Language Processing Specialization</a> offered by deeplearning.ai (Coursera)</li>
