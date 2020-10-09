@@ -22,6 +22,7 @@ In one sentence, **"I am a Data Scientist by profession, an Athlete by choice an
 <details>
   <summary>Newsworthy</summary>
   <ul>
+    <li> Oct 2019: Our research work on retrieving the most related question for a given search query has been accepted as a full paper in <a href="http://mlnlp.net/"  target="_blank">MLNLP'20, China (ACM Conference)</a></li>
     <li> Sep 2020: Completed <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/LA8H4KG9HWJP" target="_blank">Natural Language Processing Specialization</a> offered by deeplearning.ai (Coursera)</li>
     <li> Sep 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/4R95DUBLTFUD" target="_blank"> Natural Language Processing with Attention Models</a> (Coursera)</li>
     <li> Sep 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/WJ4JANLL23FY" target="_blank">Natural Language Processing with Sequence Models</a> (Coursera)</li>
