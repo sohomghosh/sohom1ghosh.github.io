@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-<img width=400 height=500 alt="GIF" src="/images/publications.gif" />
+<img width=300 height=300 alt="GIF" src="/images/publications.gif" />
 View my articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=7Jm4_McAAAAJ){:target="_blank"}
 
 Books
