@@ -17,7 +17,7 @@ redirect_from:
 # Work experience
 * Jun 2019 - Present:**Senior Analyst (Data Science)**
   * [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}, Bengaluru, India. 
-  * Harnessing the power of AI and Big Data for improving users experience during their Personal Investments
+  * Using Artificial Intelligence for improving experience of users and stakeholders
 * Jan 2017 - Jun 2019:**Data Scientist**
   * [Times Internet](https://timesinternet.in/){:target="_blank"}, Noida, India.
   * Informed, Enabled and Entertained 450+ million unique monthly visitors worldwide across 39+ digital products (Gaana, Times of India, Economic Times, Cricbuzz, MX Player, Indiatimes etc.)
