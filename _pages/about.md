@@ -24,6 +24,7 @@ In one sentence, **"I am a Data Scientist by profession, an Athlete by choice an
 <details>
   <summary>Selected Updates 👇</summary>
   <ul>
+    <li> Nov 2020: Completed certification on <a href="https://drive.google.com/file/d/1VMdU34_KTHIufIfSFyQriKg_8elFqxbg/view?usp=sharing" target="_blank"> Business English</a> Level 8 (<a href="https://www.learnship.com/en/" target="_blank">Learnship GlobalEnglish</a>)</li>
     <li> Oct 2020: Submitted our work on text summarization to Fidelity's internal review team (a necessary step before filing it as a patent)</li>
     <li> Oct 2020: Moved to my hometown Barddhaman, West Bengal, India. Started living with my parents. Enjoying the vibes of the festive season while working from home.</li>
     <li> Oct 2020: Our research work on retrieving the most related question for a given search query has been accepted as a full paper in <a href="http://mlnlp.net/"  target="_blank">MLNLP'20, China</a> (Workshop of ACM Conference ACAI'20)</li>
