@@ -41,10 +41,10 @@ redirect_from:
 # Certifications
 * [Business English Level 8 (Learnship GlobalEnglish)](https://drive.google.com/file/d/1VMdU34_KTHIufIfSFyQriKg_8elFqxbg/view?usp=sharing){:target="_blank"}
 * [Natural Language Processing Specialization, deeplearning.ai (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/LA8H4KG9HWJP){:target="_blank"}
-* [Natural Language Processing with Attention Models, (Coursera)](https://www.coursera.org/account/accomplishments/certificate/4R95DUBLTFUD){:target="_blank"}
-* [Natural Language Processing with Sequence Models, (Coursera)](https://www.coursera.org/account/accomplishments/certificate/WJ4JANLL23FY){:target="_blank"}
-* [Natural Language Processing with Probabilistic Models, (Coursera)](https://www.coursera.org/account/accomplishments/certificate/D5VQ5Q8QH2CS){:target="_blank"}
-* [Natural Language Processing with Classification and Vector Spaces, (Coursera)](https://coursera.org/share/832fb751524733c2c720193501866465){:target="_blank"}
+* [Natural Language Processing with Attention Models (Coursera)](https://www.coursera.org/account/accomplishments/certificate/4R95DUBLTFUD){:target="_blank"}
+* [Natural Language Processing with Sequence Models (Coursera)](https://www.coursera.org/account/accomplishments/certificate/WJ4JANLL23FY){:target="_blank"}
+* [Natural Language Processing with Probabilistic Models (Coursera)](https://www.coursera.org/account/accomplishments/certificate/D5VQ5Q8QH2CS){:target="_blank"}
+* [Natural Language Processing with Classification and Vector Spaces (Coursera)](https://coursera.org/share/832fb751524733c2c720193501866465){:target="_blank"}
 * [Machine Learning for Data Science and Analytics (edX)](https://courses.edx.org/certificates/21624bef8e1649b7a471faabca2a17ee){:target="_blank"}
 * Data Mining (IIT Kharagpur)
 * Big Data Analytics (IIT Kharagpur)
