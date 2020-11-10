@@ -39,6 +39,7 @@ redirect_from:
 * SQL
 
 # Certifications
+* [Business English Level 8 (Learnship GlobalEnglish)](https://drive.google.com/file/d/1VMdU34_KTHIufIfSFyQriKg_8elFqxbg/view?usp=sharing){:target="_blank"}
 * [Natural Language Processing Specialization, deeplearning.ai (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/LA8H4KG9HWJP){:target="_blank"}
 * [Natural Language Processing with Attention Models, (Coursera)](https://www.coursera.org/account/accomplishments/certificate/4R95DUBLTFUD){:target="_blank"}
 * [Natural Language Processing with Sequence Models, (Coursera)](https://www.coursera.org/account/accomplishments/certificate/WJ4JANLL23FY){:target="_blank"}
