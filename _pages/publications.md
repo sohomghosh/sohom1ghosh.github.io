@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 <img width=200 height=250 alt="GIF" src="/images/publications.gif" />
 View my articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=7Jm4_McAAAAJ){:target="_blank"}
+[<a href="https://scholar.google.com/citations?hl=en&user=7Jm4_McAAAAJ"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>](https://scholar.google.com/citations?hl=en&user=7Jm4_McAAAAJ){:target="_blank"}
+
 
 Books
 =====
@@ -28,7 +30,7 @@ Conferences
 Blogs and Others
 ======
 * **S Ghosh**, [Five must have skills for successful career in data analytics](https://content.timesjobs.com/five-must-have-skills-to-build-successful-career-in-data-analytics/articleshow/59915559.cms){:target="_blank"}, Times Jobs - Jobs & Career (Aug 2017)
-* **S Ghosh**, S Modak, A C Mondal, [A Model of Opinion Mining to Compute Score from Curriculum Vitae](https://www.slideshare.net/sohomg/new-nbu){:target="_blank"} (abstract) in proceedings of 22<sup>nd</sup> West Bengal State Science and Technology Congress 2015 (WBSSTC-2015), pp IRES-11, North Bengal University Press (Mar 2015). Received Best Presentation Award
+* **S Ghosh**, S Modak, A C Mondal, [A Model of Opinion Mining to Compute Score from Curriculum Vitae](https://www.slideshare.net/sohomg/new-nbu){:target="_blank"} (extended abstract) in proceedings of 22<sup>nd</sup> West Bengal State Science and Technology Congress 2015 (WBSSTC-2015), pp IRES-11, North Bengal University Press (Mar 2015). Received Best Presentation Award
 * **S Ghosh**, P Basuchowdhuri and A Basu, [Emergence of Collaboration in 60 years of Computer Science](https://www.slideshare.net/sohomg/emergence-of-collaboration-in-60-years-of-computer-science-wis-collnet-2015-poster){:target="_blank"} (poster) presented at 11<sup>th</sup> International Conference on Webometrics, Informetrics and Scientometrics (WIS) and the 16<sup>th</sup> COLLNET Meeting 2015 (Nov 2015)
 
 
