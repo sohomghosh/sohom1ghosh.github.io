@@ -7,9 +7,7 @@ author_profile: true
 
 {% include base_path %}
 <img width=200 height=250 alt="GIF" src="/images/publications.gif" />
-View my articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=7Jm4_McAAAAJ){:target="_blank"}
-[<a href="https://scholar.google.com/citations?hl=en&user=7Jm4_McAAAAJ"> target="_blank" <i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>](https://scholar.google.com/citations?hl=en&user=7Jm4_McAAAAJ){:target="_blank"}
-
+View my articles on [:mortar_board Google Scholar](https://scholar.google.com/citations?hl=en&user=7Jm4_McAAAAJ){:target="_blank"}
 
 Books
 =====
