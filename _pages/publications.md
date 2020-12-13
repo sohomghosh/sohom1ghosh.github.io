@@ -23,7 +23,7 @@ Journals
 Conferences
 ===========
 * S Gurung, **S Ghosh**, J Jaiswal, P Basuchowdhuri, [Extraction and Analysis of Publication Data of Conferences](https://doi.org/10.1109/ICACCE.2015.21){:target="_blank"}, in proceedings of 2<sup>nd</sup> IEEE International Conference on Advances in Computing and Communication Engineering (ICACCE-2015), pp 588-593, ISBN: 978-1-4799-1734-1/15, DOI 10.1109/ICACCE.2015.21 (2015)
-* **S Ghosh**, A Mitra, P Basuchowdhuri, S K Saha, [Analysis of Online Product Purchase and Predicting Items for Co-purchase](https://doi.org/10.1007/978-81-322-2538-6_60){:target="_blank"}  in proceedings of 3<sup>rd</sup> International Conference on Advanced Computing, Networking, and Informatics (2015) Vol-1, Smart Innovation, Systems and Technologies Vol 43, Springer Verlag (ISSN: 2190-3018)
+* **S Ghosh**, A Mitra, P Basuchowdhuri, S K Saha, [Analysis of Online Product Purchase and Predicting Items for Co-purchase](https://doi.org/10.1007/978-81-322-2538-6_60){:target="_blank"}  in proceedings of 3<sup>rd</sup> International Conference on Advanced Computing, Networking, and Informatics (2015) Vol-1, Smart Innovation, Systems and Technologies Vol 43, Springer Verlag (ISSN: 2190-3018) (2015)
 
 Blogs and Others
 ======
