@@ -24,7 +24,8 @@ In one sentence, **"I am a Data Scientist by profession, an Athlete by choice an
 <details>
   <summary>Selected Updates 👇</summary>
   <ul>
-    <li> Jan 2021:  Completed certification on <a href="https://drive.google.com/file/d/17sbCOT6GL2BR_2S0CK9NYg-6rSLLit3A/view" target="_blank"> Business English</a> Level 9 (<a href="https://www.learnship.com/en/" target="_blank">Learnship GlobalEnglish</a>)</li>
+    <li> Jan 2021: Got promoted to the post of Data Scientist at Fidelity</li>
+    <li> Jan 2021: Completed certification on <a href="https://drive.google.com/file/d/17sbCOT6GL2BR_2S0CK9NYg-6rSLLit3A/view" target="_blank"> Business English</a> Level 9 (<a href="https://www.learnship.com/en/" target="_blank">Learnship GlobalEnglish</a>)</li>
     <li> Jan 2021: Re-started taking lessons on Harmonica</li>
     <li> Dec 2020: Explored few rural areas of West Bengal. Re-started taking Tabla lessons. Recoreded few music videos. Attended a workshop on Bengali Drama and a Folk Music (Baul) concert</li>
     <li> Nov 2020: Completed certification on <a href="https://drive.google.com/file/d/1VMdU34_KTHIufIfSFyQriKg_8elFqxbg/view?usp=sharing" target="_blank"> Business English</a> Level 8 (<a href="https://www.learnship.com/en/" target="_blank">Learnship GlobalEnglish</a>)</li>
