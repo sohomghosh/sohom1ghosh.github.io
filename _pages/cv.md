@@ -15,7 +15,7 @@ redirect_from:
 * **B.Tech, Computer Science & Engineering**, [Heritage Institute of Technology, Kolkata, India](https://www.heritageit.edu/){:target="_blank"}.
 
 # Work experience
-* Jun 2019 - Present:**Senior Analyst (Data Science)**
+* Jun 2019 - Present:**Data Scientist**
   * [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}, Bengaluru, India. 
   * Using Artificial Intelligence for improving experience of users and stakeholders
 * Jan 2017 - Jun 2019:**Data Scientist**
@@ -39,6 +39,7 @@ redirect_from:
 * SQL
 
 # Certifications
+* [Business English Level 9 (Learnship GlobalEnglish)](https://drive.google.com/file/d/17sbCOT6GL2BR_2S0CK9NYg-6rSLLit3A/view){:target="_blank"}
 * [Business English Level 8 (Learnship GlobalEnglish)](https://drive.google.com/file/d/1VMdU34_KTHIufIfSFyQriKg_8elFqxbg/view?usp=sharing){:target="_blank"}
 * [Natural Language Processing Specialization, deeplearning.ai (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/LA8H4KG9HWJP){:target="_blank"}
 * [Natural Language Processing with Attention Models (Coursera)](https://www.coursera.org/account/accomplishments/certificate/4R95DUBLTFUD){:target="_blank"}
