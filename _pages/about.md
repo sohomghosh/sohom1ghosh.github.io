@@ -8,7 +8,7 @@ redirect_from:
 ---
 > **_🙏ॐ श्रीं ह्रीं सरस्वत्यै नमः॥ I meditate on Lordess Saraswati, the goddess of education, music and speech.🙏_**
 
-I am a **Senior Analyst - Data Science** at the **Artificial Intelligence, Centre of Excellence of** [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}. My research interests include **Industrial Applications of Machine Learning and Deep Learning based Natural Language Processing**.<br>
+I am a **Data Scientist** at the **Artificial Intelligence, Centre of Excellence of** [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}. My research interests include **Applications of Natural Language Processing in the FinTech Industry**.<br>
 
 <img src="../images/Research_Interest.png" alt="Research Interest" width="50%" class="center">
 
