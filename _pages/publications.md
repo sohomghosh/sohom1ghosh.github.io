@@ -22,7 +22,7 @@ Journals
 
 Conferences
 ===========
-* A Chopra, S Agrawal and **S Ghosh**, [Applying Transfer Learning for Improving Domain-Specific Search Experience Using Query to Question Similarity], in proceedings of International Conference on Algorithms, Computing and Artificial Intelligence (ACAI-2020), Sanya, China (Accepted for publication by ACM ICPS) (2020)
+* A Chopra, S Agrawal and **S Ghosh**, [Applying Transfer Learning for Improving Domain-Specific Search Experience Using Query to Question Similarity], in proceedings of International Conference on Algorithms, Computing and Artificial Intelligence (ACAI-2020), Sanya, China (Accepted for publication by ACM ICPS)  ([pre-print](https://arxiv.org/abs/2101.02351))(2020)
 * S Gurung, **S Ghosh**, J Jaiswal, P Basuchowdhuri, [Extraction and Analysis of Publication Data of Conferences](https://doi.org/10.1109/ICACCE.2015.21){:target="_blank"}, in proceedings of IEEE International Conference on Advances in Computing and Communication Engineering (ICACCE-2015), pp 588-593, ISBN: 978-1-4799-1734-1/15, DOI 10.1109/ICACCE.2015.21 (2015)
 * **S Ghosh**, A Mitra, P Basuchowdhuri, S K Saha, [Analysis of Online Product Purchase and Predicting Items for Co-purchase](https://doi.org/10.1007/978-81-322-2538-6_60){:target="_blank"}  in proceedings of International Conference on Advanced Computing, Networking, and Informatics (2015) Vol-1, Smart Innovation, Systems and Technologies Vol 43, Springer Verlag (ISSN: 2190-3018) (2015)
 
