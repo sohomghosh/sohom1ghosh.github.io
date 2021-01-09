@@ -39,6 +39,8 @@ redirect_from:
 * SQL
 
 # Certifications
+* [Introduction to Research (NPTEL), Topper (Top 1%, Elite + Silver)
+](https://internalapp.nptel.ac.in/NOC/NOC20/SEM2/Ecertificates/127/noc20-ge22/Course/NPTEL20GE22S81400092172529.jpg){:target="_blank"}
 * [Business English Level 9 (Learnship GlobalEnglish)](https://drive.google.com/file/d/17sbCOT6GL2BR_2S0CK9NYg-6rSLLit3A/view){:target="_blank"}
 * [Business English Level 8 (Learnship GlobalEnglish)](https://drive.google.com/file/d/1VMdU34_KTHIufIfSFyQriKg_8elFqxbg/view?usp=sharing){:target="_blank"}
 * [Natural Language Processing Specialization, deeplearning.ai (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/LA8H4KG9HWJP){:target="_blank"}
