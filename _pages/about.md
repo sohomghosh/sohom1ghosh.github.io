@@ -24,7 +24,7 @@ In one sentence, **"I am a Data Scientist by profession, an Athlete by choice an
 <details>
   <summary>Selected Updates 👇</summary>
   <ul>
-    <li> Jan 2021: Completed the course <a href="https://internalapp.nptel.ac.in/NOC/NOC20/SEM2/Ecertificates/127/noc20-ge22/Course/NPTEL20GE22S81400092172529.jpg" target="_blank">Introduction to Research</a> from <a href="https://nptel.ac.in/noc/" target="_blank">NPTEL</a>. Received badge: Topper (Top 1%, Elite + Silver) </li>
+    <li> Jan 2021: Completed the course <a href="https://internalapp.nptel.ac.in/NOC/NOC20/SEM2/Ecertificates/127/noc20-ge22/Course/NPTEL20GE22S81400092172529.jpg" target="_blank">Introduction to Research</a> from <a href="https://nptel.ac.in/noc/" target="_blank">NPTEL</a>. Badge: Topper (Top 1%, Elite + Silver) </li>
     <li> Jan 2021: Got promoted to the post of Data Scientist at Fidelity</li>
     <li> Jan 2021: Completed certification on <a href="https://drive.google.com/file/d/17sbCOT6GL2BR_2S0CK9NYg-6rSLLit3A/view" target="_blank"> Business English</a> Level 9 (<a href="https://www.learnship.com/en/" target="_blank">Learnship GlobalEnglish</a>)</li>
     <li> Jan 2021: Re-started taking lessons on Harmonica</li>
