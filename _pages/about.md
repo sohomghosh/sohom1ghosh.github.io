@@ -24,6 +24,7 @@ In one sentence, **"I am a Data Scientist by profession, an Athlete by choice an
 <details>
   <summary>Selected Updates 👇</summary>
   <ul>
+    <li> Feb 2021: Received CKSI Excellence In Action - Q4 2020 (Team Award) from Fidelity for mining reasons behind high call volumes using NLP</li>
     <li> Jan 2021: Trekked to Sandakphu & Phalut (India/Nepal). Received Green Getter certificate from IndiaHikes for demonstrating exemplary service towards keeping the fragile mountains clean and green </li>
     <li> Jan 2021: Completed the course <a href="https://internalapp.nptel.ac.in/NOC/NOC20/SEM2/Ecertificates/127/noc20-ge22/Course/NPTEL20GE22S81400092172529.jpg" target="_blank">Introduction to Research</a> from <a href="https://nptel.ac.in/noc/" target="_blank">NPTEL</a>. Badge: Topper (Top 1%, Elite + Silver) </li>
     <li> Jan 2021: Got promoted to the post of Data Scientist at Fidelity</li>
