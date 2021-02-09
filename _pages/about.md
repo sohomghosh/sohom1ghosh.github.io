@@ -24,6 +24,7 @@ In one sentence, **"I am a Data Scientist by profession, an Athlete by choice an
 <details>
   <summary>Selected Updates 👇</summary>
   <ul>
+    <li> Feb 2021: Completed certification on <a href="https://drive.google.com/file/d/1jBsn0Ugco6W_uLZJP0LtfsoN6aALg05S/view?usp=sharing" target="_blank"> Business English</a> Level 10 (<a href="https://www.learnship.com/en/" target="_blank">Learnship GlobalEnglish</a>)</li>
     <li> Feb 2021: Received CKSI Excellence In Action - Q4 2020 (Team Award) from Fidelity for mining reasons behind high call volumes using NLP</li>
     <li> Jan 2021: Played Tabla at an online cultural event organised by Personal Investment wing of Fidelity</li>
     <li> Jan 2021: Trekked to Sandakphu & Phalut (India/Nepal). Received Green Getter certificate from IndiaHikes for demonstrating exemplary service towards keeping the fragile mountains clean and green </li>
