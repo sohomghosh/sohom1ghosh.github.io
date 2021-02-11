@@ -28,7 +28,7 @@ Conferences
 
 Workshops
 =========
-* **S Ghosh** and A Chopra,“Using Transformer based Ensemble Learning to Classify ScientificArticles”, in proceedings of Workshop & Shared Task on Scope Detection of the Peer Review Articles [SDPRA-2021](https://sdpra-2021.github.io/website/){:target="_blank"} (Collocated with [PAKDD-2021](pakdd2021.org/){:target="_blank"})(Accepted for publication by Springer LNAI)
+* **S Ghosh** and A Chopra,“Using Transformer based Ensemble Learning to Classify ScientificArticles”, in proceedings of Workshop & Shared Task on Scope Detection of the Peer Review Articles [SDPRA-2021](https://sdpra-2021.github.io/website/){:target="_blank"} (Collocated with [PAKDD-2021](pakdd2021.org/){:target="_blank"}) (Accepted for publication by Springer LNAI)
 
 Blogs and Others
 ======
