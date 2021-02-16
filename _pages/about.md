@@ -12,7 +12,7 @@ I am a **Data Scientist** at the **Artificial Intelligence, Centre of Excellence
 
 <img src="../images/Research_Interest.png" alt="Research Interest" width="50%" class="center">
 
-Over the last few years, I have been **improving the digital experience & financial well-being** of millions of users across different industries like **Internet, Financial Services** and so on. In addition to being co-author of the books [Natural Language Processing Fundamentals](https://www.packtpub.com/in/big-data-and-business-intelligence/natural-language-processing-fundamentals){:target="_blank"} and [The Natural Language Processing Workshop](https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition){:target="_blank"}, I have several [publications](https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en){:target="_blank"} in proceedings of **international conferences** and **refereed journals (Springer, IEEE, ACM)**.
+Over the last few years, I have been **working on improving the digital experience & financial well-being** of millions of users across different industries like **Internet, Financial Services** and so on. In addition to being co-author of the books [Natural Language Processing Fundamentals](https://www.packtpub.com/in/big-data-and-business-intelligence/natural-language-processing-fundamentals){:target="_blank"} and [The Natural Language Processing Workshop](https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition){:target="_blank"}, I have several [publications](https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en){:target="_blank"} in proceedings of **international conferences** and **refereed journals (Like Springer, IEEE, ACM)**.
 
 
 I hold a **Master's Degree** in **Software Systems (with specialization in Data Analytics)** from [BITS Pilani, India](http://www.bits-pilani.ac.in/){:target="_blank"} and a **Bachelor's Degree** in **Computer Science and Engineering**. <br>
@@ -25,7 +25,7 @@ In one sentence, **"I am a Data Scientist by profession, an Athlete by choice an
   <summary>Selected Updates 👇</summary>
   <ul>
     <li> Feb 2021: Paper accepted at <a href="https://sdpra-2021.github.io/website/" target="_blank">SDPRA 2021</a> (workshop of <a href="https://www.pakdd2021.org/" target="_blank">PAKDD 2021</a>) </li>
-    <li> Feb 2021: Completed certification on <a href="https://drive.google.com/file/d/1jBsn0Ugco6W_uLZJP0LtfsoN6aALg05S/view?usp=sharing" target="_blank"> Business English</a> Level 10 (<a href="https://www.learnship.com/en/" target="_blank">Learnship GlobalEnglish</a>)</li>
+    <li> Feb 2021: Completed certification on <a href="https://drive.google.com/file/d/1jBsn0Ugco6W_uLZJP0LtfsoN6aALg05S/view?usp=sharing" target="_blank"> Business English</a> Level 10 (Highest Level) (<a href="https://www.learnship.com/en/" target="_blank">Learnship GlobalEnglish</a>)</li>
     <li> Feb 2021: Received CKSI Excellence In Action - Q4 2020 (Team Award) from Fidelity for mining reasons behind high call volumes using NLP</li>
     <li> Jan 2021: Played Tabla at an online cultural event organised by Personal Investment wing of Fidelity</li>
     <li> Jan 2021: Trekked to Sandakphu & Phalut (India/Nepal). Received Green Getter certificate from IndiaHikes for demonstrating exemplary service towards keeping the fragile mountains clean and green </li>
