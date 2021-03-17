@@ -8,7 +8,7 @@ redirect_from:
 ---
 > **_🙏ॐ श्रीं ह्रीं सरस्वत्यै नमः॥ I meditate on Lordess Saraswati, the goddess of education, music and speech.🙏_**
 
-I am a **Data Scientist** at the **Artificial Intelligence, Centre of Excellence of** [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}. My research interests include **Applications of Natural Language Processing in the FinTech Industry**.<br>
+I am a **Data Scientist** at the **Artificial Intelligence, Centre of Excellence of** [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}. Presently, I am working on **Applications of Natural Language Processing in the FinTech Industry**.<br>
 
 <img src="../images/Research_Interest.png" alt="Research Interest" width="50%" class="center">
 
@@ -17,7 +17,7 @@ Over the last few years, I have been **working on improving the digital experien
 
 I hold a **Master's Degree** in **Software Systems (with specialization in Data Analytics)** from [BITS Pilani, India](http://www.bits-pilani.ac.in/){:target="_blank"} and a **Bachelor's Degree** in **Computer Science and Engineering**. <br>
 
-Outside work, I like to play [harmonica](https://www.youtube.com/watch?v=ajFlw7rnfkI&list=PLWVXvBh2xmj_yWcdldvo6w1LD1C-d4xSw){:target="_blank"} & several other percussion instruments including Tabla. Being an [adventure lover](https://www.youtube.com/watch?v=hPyn1LKRLCo&list=PLWVXvBh2xmj-XlHYzumNLZazfpmim4klq){:target="_blank"} and a fitness buff, I believe that **"Health is Wealth"**.
+Outside work, I like to play [harmonica](https://www.youtube.com/watch?v=ajFlw7rnfkI&list=PLWVXvBh2xmj_yWcdldvo6w1LD1C-d4xSw){:target="_blank"} & several other percussion instruments. Being an [adventure lover](https://www.youtube.com/watch?v=hPyn1LKRLCo&list=PLWVXvBh2xmj-XlHYzumNLZazfpmim4klq){:target="_blank"} and a fitness buff, I believe that **"Health is Wealth"**.
 
 In one sentence, **"I am a Data Scientist by profession, an Athlete by choice and an Artist from within".** 😊
 
